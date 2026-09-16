@@ -12,8 +12,7 @@
 
 ### 竞赛
 
-- [2026-smart-car-stc32g](https://github.com/zdxddmx/2026-smart-car-stc32g) — 智能汽车竞赛电磁组固件。STC32G 四路电感循迹、IMU 姿态积分、环岛状态机
-- [smartcar-hardware](https://github.com/zdxddmx/smartcar-hardware) — 电磁组自研板卡。DRV8701 双驱、运放、四路循迹模块，立创 EDA 设计
+- [2026-smart-car](https://github.com/zdxddmx/2026-smart-car) — 智能汽车竞赛电磁组完整工程。STC32G 固件（四路电感循迹、IMU 姿态积分、环岛状态机）连同六块自研板卡的立创 EDA 设计
 - [2026-nuedc-steel-ball-control](https://github.com/zdxddmx/2026-nuedc-steel-ball-control) — 电赛 H 题车载平衡滚球。MaixCAM2 视觉检测，位置 / 球速 / 管角速度三级串级控制
 - [2025-nuedc-line-following-car](https://github.com/zdxddmx/2025-nuedc-line-following-car) — 电赛循迹小车。MSPM0G3507 编码器速度环、陀螺仪航向修正、灰度循迹
 
