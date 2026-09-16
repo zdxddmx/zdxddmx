@@ -33,7 +33,3 @@
 ## 常用
 
 `C` `Verilog` `Python` `Keil MDK` `Vivado` `立创EDA`
-
----
-
-<sub>番龄比码龄长。</sub>
